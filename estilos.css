@@ -1,0 +1,21 @@
+body{
+    background-image: url(./info.jpeg);
+    background-size: 100% 100%
+}
+a{
+    color: white;
+    font-size: large;
+}
+li{
+    list-style-type:none;
+}
+h1{
+    color: white;
+}
+p{
+    color: white;
+    font-size: 30px;
+}
+div{
+    padding: 25px;
+}
